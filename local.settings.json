@@ -5,5 +5,5 @@
   },
   "ConnectionStrings": {},
 
-  "AzureWebJobsStorage": ""
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountudacity2;AccountKey=ksyGwx8EwmSG+S1NhNvLLPCPIfgKFQHWg7E+H/RAFqD8c69diRnkIohnkOc5/YzaE87VFwwSrk8X+AStQeieRA==;EndpointSuffix=core.windows.net"
 }
